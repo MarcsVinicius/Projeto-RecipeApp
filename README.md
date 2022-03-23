@@ -2,7 +2,7 @@
 
 <p>Projeto RecipeApp onde o objetivo é fazer um App de receitas completo, com opções de iniciar receitas, salvar receitas e explorar receitas e drinks.</p>
 
-<h3>Você pode visualizar o site clicando <a href="https://projeto-recipe-app-qng38rxln-marcsvinicius.vercel.app" target="_blank" >AQUI</a></h3>
+<h3>Você pode visualizar o site clicando <a href="https://projeto-recipe-app-qng38rxln-marcsvinicius.vercel.app" target="_blank" >AQUI</a>(SOMENTE MOBILE)</h3>
 
 <h2>Integrantes do grupo:</h2>
 <ul>

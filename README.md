@@ -2,6 +2,8 @@
 
 <p>Projeto RecipeApp onde o objetivo é fazer um App de receitas completo, com opções de iniciar receitas, salvar receitas e explorar receitas e drinks.</p>
 
+<h3>Você pode visualizar o site clicando <a href="https://projeto-recipe-app-qng38rxln-marcsvinicius.vercel.app" target="_blank" >AQUI</a></h3>
+
 <h2>Integrantes do grupo:</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/ACoAADF8tPABxLdVlduLLo4rfLny7Nfy0zyUlyg?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bn3wf9EG3Rw%2B64FepQ9PnSw%3D%3D"><p>Adson Gomes</p></a></li>

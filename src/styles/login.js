@@ -11,6 +11,11 @@ export const LoginPage = styled.section`
     height: auto;
     width: 100vw;
   }
+  @media (min-width: 1000px){
+    img {
+      display: none;
+    }
+  }
 `;
 
 export const LoginForm = styled.form`
@@ -29,6 +34,12 @@ export const LoginForm = styled.form`
     margin-top: 0;
     width: 17.5rem;
   }
+
+  @media (min-width: 1000px){
+    input {
+      margin: var(--spacing-scale-2x);
+    }
+    }
 
   span {
     align-self: flex-start;
